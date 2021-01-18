@@ -6,6 +6,10 @@ Mathematica Notebooks for Math 385 Numerical Methods at Hunter College
 3. [Solving Linear Systems by Iteration](https://www.wolframcloud.com/obj/emaad.khwaja83/Published/Solving-Linear-Systems-by-Iteration.nb)
 4. [Newton and Secant Method](https://www.wolframcloud.com/obj/emaad.khwaja83/Published/Newton%20and%20Secant%20Method.nb)
 5. [Functions of Several Variables: Finding Roots and Extrema](https://www.wolframcloud.com/obj/emaad.khwaja83/Published/Functions%20of%20Several%20Variables-%20Finding%20Roots%20and%20Extrema%20-%2003_13_16.nb)
+
+
+<img src="https://github.com/EmaadKhwaja/Numerical-Methods-Projects/blob/master/Animated%20Visualizations/finding-roots.gif?raw=true" height="200">
+
 6. [Interpolation](https://www.wolframcloud.com/obj/emaad.khwaja83/Published/Interpolation%20-%2003_21_16.nb)
 
 <img src="https://github.com/EmaadKhwaja/Numerical-Methods-Projects/blob/master/Animated%20Visualizations/interpolation.jpg?raw=true" height="200">
