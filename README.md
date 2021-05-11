@@ -1,5 +1,5 @@
 # Numerical-Methods-Projects
-Mathematica Notebooks for Math 385 Numerical Methods at Hunter College
+Mathematica Notebooks with sweet visualizatoins for Math 385 Numerical Methods at Hunter College
 
 1. [For Loop Basics](https://www.wolframcloud.com/obj/emaad.khwaja83/Published/For%20Loop%20Basics.nb)
 2. [Systems of Linear Equations](https://www.wolframcloud.com/obj/emaad.khwaja83/Published/System%20of%20Linear%20Equations.nb)
